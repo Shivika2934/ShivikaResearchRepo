@@ -2,7 +2,7 @@
 
 [https://64e91fbd-c3b3-4588-b4a8-ca41bcf0a39f-00-1kh99z2geglia.spock.replit.dev/admin/view_questions/6](https://64e91fbd-c3b3-4588-b4a8-ca41bcf0a39f-00-1kh99z2geglia.spock.replit.dev/login)
 flow diagram:
-<img width="800" height="450" alt="question1" src="https://github.com/user-attachments/assets/92868b09-9f05-42fe-a5fb-e6c5f95d59f9" />
+<img width="700" height="350" alt="question1" src="https://github.com/user-attachments/assets/92868b09-9f05-42fe-a5fb-e6c5f95d59f9" />
 
 login page: 
 <img width="1166" height="634" alt="image" src="https://github.com/user-attachments/assets/b68fce7f-9a50-46c8-b1b5-23978372802f" />
