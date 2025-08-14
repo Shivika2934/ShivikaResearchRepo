@@ -1,7 +1,7 @@
 # First Question – AI-Powered Lab Question Generator
 
-[Live Demo](https://64e91fbd-c3b3-4588-b4a8-ca41bcf0a39f-00-1kh99z2geglia.spock.replit.dev/login)  
-
+[Live Demo on Replit](https://64e91fbd-c3b3-4588-b4a8-ca41bcf0a39f-00-1kh99z2geglia.spock.replit.dev/login)  
+[Hosted on vercel](https://labquestionnew.vercel.app/login)
 **Flow Diagram**  
 <img width="700" height="350" alt="flow" src="https://github.com/user-attachments/assets/92868b09-9f05-42fe-a5fb-e6c5f95d59f9" />
 
