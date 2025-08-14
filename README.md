@@ -1,4 +1,4 @@
-##Second Question
+# Second Question
 https://cdad7ef9-7626-4c49-a658-e9416bb6b830-00-1uq08hnlem0q7.picard.replit.dev/
 <img width="1377" height="534" alt="question2" src="https://github.com/user-attachments/assets/1b4593aa-0990-451c-973d-9790fc262958" />
 
@@ -11,13 +11,13 @@ admin dashboard:
 <img width="1156" height="541" alt="image" src="https://github.com/user-attachments/assets/5d925ff4-2751-4001-91cf-ccfca5a91443" />
 <img width="1144" height="283" alt="image" src="https://github.com/user-attachments/assets/ab8eae4b-b1e5-40ac-bedd-4189c718c84e" />
 
-# AI-Powered Digital Examination System
+## AI-Powered Digital Examination System
 
 A comprehensive digital examination platform built with Flask that leverages AI for question generation, automated evaluation, and intelligent exam management.
 
-## 🌟 Features
+### 🌟 Features
 
-### Core Functionality
+#### Core Functionality
 - **Role-based Authentication**: Separate interfaces for administrators and students using Replit OAuth
 - **AI Question Generation**: Automatically generate unique questions using OpenAI's GPT-4o model
 - **Exam Management**: Create, publish, and manage exams with flexible settings
@@ -26,7 +26,7 @@ A comprehensive digital examination platform built with Flask that leverages AI 
 - **Automated Evaluation**: Instant grading for multiple-choice questions
 - **Comprehensive Analytics**: Detailed performance statistics and reporting
 
-### Admin Features
+#### Admin Features
 - Create exams with AI-generated questions
 - Subject and difficulty level management
 - Question approval and review workflow
@@ -34,7 +34,7 @@ A comprehensive digital examination platform built with Flask that leverages AI 
 - Performance analytics and reporting
 - Student result management
 
-### Student Features
+#### Student Features
 - Responsive exam interface
 - Real-time timer with visual warnings
 - Progress tracking and navigation
@@ -42,13 +42,13 @@ A comprehensive digital examination platform built with Flask that leverages AI 
 - Detailed result viewing
 - Mobile-friendly design
 
-### AI Integration
+#### AI Integration
 - **Question Generation**: Create contextually relevant questions based on subject and difficulty
 - **Question Variations**: Generate multiple versions to prevent cheating
 - **Content Adaptation**: Adjust difficulty and complexity automatically
 - **Future Enhancement**: Subjective answer evaluation (framework ready)
 
-## 🏗️ System Architecture
+#### 🏗️ System Architecture
 
 ```mermaid
 graph TB
