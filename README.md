@@ -29,7 +29,7 @@
 
 # Second Question – AI-Powered Digital Exam System
 
-[Live Demo](https://cdad7ef9-7626-4c49-a658-e9416bb6b830-00-1uq08hnlem0q7.picard.replit.dev/)  
+[Live Demo](https://64e91fbd-c3b3-4588-b4a8-ca41bcf0a39f-00-1kh99z2geglia.spock.replit.dev/login)  
 
 **Flow Diagram**  
 <img width="700" height="350" src="https://github.com/user-attachments/assets/1b4593aa-0990-451c-973d-9790fc262958" />
