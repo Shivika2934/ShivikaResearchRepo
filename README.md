@@ -1,3 +1,55 @@
+# First Question
+
+[https://64e91fbd-c3b3-4588-b4a8-ca41bcf0a39f-00-1kh99z2geglia.spock.replit.dev/admin/view_questions/6](https://64e91fbd-c3b3-4588-b4a8-ca41bcf0a39f-00-1kh99z2geglia.spock.replit.dev/login)
+flow diagram:
+<img width="1052" height="769" alt="question1" src="https://github.com/user-attachments/assets/92868b09-9f05-42fe-a5fb-e6c5f95d59f9" />
+
+login page: 
+<img width="1166" height="634" alt="image" src="https://github.com/user-attachments/assets/b68fce7f-9a50-46c8-b1b5-23978372802f" />
+admin portal for creating questions
+<img width="1092" height="633" alt="image" src="https://github.com/user-attachments/assets/1faf76e9-5bb0-4508-aedb-160dda9b8e91" />
+student portal for viewing assigned question
+<img width="1081" height="627" alt="image" src="https://github.com/user-attachments/assets/ccd956a3-f3fe-4325-8e4a-1a9517843477" />
+## 🎯 Objectives
+- Eliminate paper usage for question papers and evaluations.
+- Maintain **exam integrity** with secure authentication.
+- Provide **role-based access** (Admin, Student).
+- Enable **multi-device compatibility** (desktop, mobile, tablet).
+- Automate **question generation and evaluation** using AI.
+
+---
+
+## 🏗 System Architecture
+The system is designed with two main roles:
+
+1. **Admin**
+   - Securely log in.
+   - Use AI to auto-generate question papers from syllabus/topics.
+   - Schedule and publish exams digitally.
+   - View and evaluate student submissions.
+   - Access analytics and performance reports.
+
+2. **Student**
+   - Log in securely.
+   - Attempt digital question papers within the exam window.
+   - Submit answers digitally.
+   - View results and feedback.
+
+---
+
+## 🔍 Role of AI
+- **Question Paper Generation**:  
+  AI generates unique, difficulty-balanced question papers from a syllabus or topic bank to prevent cheating.
+  
+- **Plagiarism Detection**:  
+  AI checks for answer originality in real-time to ensure academic honesty.
+  
+- **Automated Evaluation**:  
+  AI evaluates objective questions instantly and assists in grading subjective answers.
+
+- **Proctoring**:  
+  AI-based remote proctoring detects unusual behavior via webcam and microphone.
+  
 # Second Question
 https://cdad7ef9-7626-4c49-a658-e9416bb6b830-00-1uq08hnlem0q7.picard.replit.dev/
 <img width="1377" height="534" alt="question2" src="https://github.com/user-attachments/assets/1b4593aa-0990-451c-973d-9790fc262958" />
@@ -47,49 +99,4 @@ A comprehensive digital examination platform built with Flask that leverages AI 
 - **Question Variations**: Generate multiple versions to prevent cheating
 - **Content Adaptation**: Adjust difficulty and complexity automatically
 - **Future Enhancement**: Subjective answer evaluation (framework ready)
-
-#### 🏗️ System Architecture
-
-```mermaid
-graph TB
-    subgraph "Frontend Layer"
-        A[Web Interface - HTML/CSS/JS]
-        B[Admin Dashboard]
-        C[Student Exam Interface]
-        D[Mobile Responsive UI]
-    end
-    
-    subgraph "Authentication"
-        E[Replit OAuth]
-        F[Role-Based Access Control]
-    end
-    
-    subgraph "Backend Services"
-        G[Flask Application Server]
-        H[Exam Management Service]
-        I[AI Question Generator]
-        J[Evaluation Engine]
-        K[Timer & Anti-Cheat Service]
-    end
-    
-    subgraph "AI Integration"
-        L[OpenAI API]
-        M[Question Generation]
-        N[Answer Evaluation]
-        O[Question Variations]
-    end
-    
-    subgraph "Data Layer"
-        P[SQLite Database]
-        Q[User Management]
-        R[Exam Storage]
-        S[Results Analytics]
-    end
-    
-    subgraph "Security & Integrity"
-        T[Session Management]
-        U[Question Randomization]
-        V[Tab Switch Detection]
-        W[Time Validation]
-    end
 
